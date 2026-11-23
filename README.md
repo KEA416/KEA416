@@ -10,4 +10,4 @@ Data Science, Machine Learning, and Statistical Modeling.
 ### Core Stack
 - **Languages:** Python, SQL, R
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn
-- **Tools:** Git, Jupyter, VS Code
+- **Tools:** Tableu
